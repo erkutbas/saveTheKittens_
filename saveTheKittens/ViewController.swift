@@ -21,6 +21,9 @@ class ViewController: UIViewController {
         
         print("yeni satır")
         print("yeni bir satır daha")
+        
+        print("11111")
+        print("seval")
     }
 
     override func didReceiveMemoryWarning() {
